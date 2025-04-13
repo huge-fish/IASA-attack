@@ -20,5 +20,5 @@ The IASA algorithm implementation follows the flow chart as illustrated below:
 ## Getting Started
 ```python
     pip install -r requirements.txt
-    ```
+```
 ### Prerequisites
