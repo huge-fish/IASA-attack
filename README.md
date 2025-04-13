@@ -21,4 +21,13 @@ The IASA algorithm implementation follows the flow chart as illustrated below:
 ```python
     pip install -r requirements.txt
 ```
-### Prerequisites
+## Usage
+To run the evaluation:
+```python
+python eval.py
+```
+For baseline evaluation:
+
+```python
+python eval_base.py
+```
