@@ -18,9 +18,7 @@ The IASA algorithm implementation follows the flow chart as illustrated below:
 ![IASA Algorithm Flow](assets/流程.png)
 
 ## Getting Started
-'''
-git clone https://github.com/username/IASA.git
-cd IASA
-pip install -r requirements.txt
-'''
+```python
+    pip install -r requirements.txt
+    ```
 ### Prerequisites
